@@ -1,6 +1,6 @@
-Projekt SQL & Excel
+#Projekt SQL & Excel
 
-Dashboard Klienci Banku
+##Dashboard Klienci Banku
 
 Celem projektu jest stworzenie interaktywnego dashboardu, który pozwoli na efektywną analizę klientów banku w oparciu o kluczowe wskaźniki, takie jak:
 •	Wiek i płeć klientów,

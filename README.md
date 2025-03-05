@@ -9,8 +9,8 @@ Celem projektu jest stworzenie interaktywnego dashboardu, który pozwoli na efek
 Użyte narzędzia:
 * SQL- agregacja danych,
 * Power Query- czyszczenie danych,
-* DAX- użyty do obliczeń, np. liczby klientów, średniego wieku, liczby transakcji
-* Excel - wizualizacja
+* DAX- użyty do obliczeń, np. liczby klientów, średniego wieku, liczby transakcji,
+* Excel - wizualizacja danych.
 
   
 ![DashboardPNG](https://github.com/user-attachments/assets/bd18be0e-d009-4d36-8b8c-829996445bc7)
